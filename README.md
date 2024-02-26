@@ -1,2 +1,2 @@
 # Breast_Cancer_Classification
-This Breast Cancer Classification using Neural Network.
+This is a  Breast Cancer Classification Model using Neural Network.
